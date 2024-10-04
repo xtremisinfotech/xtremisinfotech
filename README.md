@@ -1,4 +1,4 @@
-[![MasterHead](http://xtremis.in/xtremis-logo-bg.jpg)](http://xtremis.in/)
+[![MasterHead](https://xtremis.in/xtremis-logo-cropped.jpg)](http://xtremis.in/)
 
 <h1 align="center">Hi 👋, I'm Mahiman Parmar (Web Developer From Ahmedabad)</h1>
 <h3 align="center">An Experienced | Innovative | Award-Winning Web Application Developer From Ahmedabad - INDIA</h3>
