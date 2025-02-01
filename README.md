@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **PMS, ERPs, Social Media Apps or similar projects**
 
-- 👨‍💻 All of my projects are available at [http://xtremis.in](http://xtremis.in)
-
 - 💬 Ask me about **PHP, Laravel, ReactJS, SQL**
 
 - 📫 How to reach me **xtremisinfotech@gmail.com**
