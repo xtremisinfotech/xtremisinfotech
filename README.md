@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🔭 I’m currently working on **Generic Incentivisation Platform**
+- 🔭 I’m currently working on **Sport Venue Booking Platform**
 
-- 🌱 I’m currently learning **NodeJS, Shopify**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **PMS, ERPs, Social Media Apps or similar projects**
+- 👯 I’m looking to collaborate on **PMS, ERPs, Booking Webapps/Apps, Social Media Apps or similar projects**
 
 - 💬 Ask me about **PHP, Laravel, ReactJS, SQL**
 
